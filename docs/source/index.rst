@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Bem vindo a documentação do Wings 4 Business!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**W4B** trata-se de um serviço de automação de processos que opera em uma plataforma SAAS. É uma combinação de elementos visuais modelados
+como processos BPMN, para tomada de decisão e fluxogramas de processos com diferentes níveis de complexidade, em que utilizando o W4B é possível
+de forma colaborativa, com uma IDE personalizada que permite implementar diversos recursos diferentes.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Este projeto está em desenvolvimento.
 
 Contents
 --------

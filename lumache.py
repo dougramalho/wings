@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+W4B - Ferramenta de modelagem de processos BPMN.
 """
 
 __version__ = "0.1.0"
