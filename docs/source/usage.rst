@@ -1,9 +1,9 @@
 Usage
 =====
 
-.. _installation:
+.. _conceito1:
 
-Installation
+Primeiro conceito
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,23 +12,28 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+.. _conceito2:
 
-.. autofunction:: lumache.get_random_ingredients
+Segundo conceito
+------------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+To use Lumache, first install it using pip:
 
-.. autoexception:: lumache.InvalidKindError
+.. code-block:: console
 
-For example:
+   (.venv) $ pip install lumache
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+
+.. _conceito3:
+
+Terceiro conceito
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
 
