@@ -19,3 +19,8 @@ Contents
 
    usage
    api
+   conceitos
+   bpmn
+   padroes
+   tutoriais
+   qna
