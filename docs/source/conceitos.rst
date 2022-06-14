@@ -24,6 +24,26 @@ ABPMP BPM CBOK versão 3.0
   :width: 700
   :alt: Alternative text
 
+Processo é uma agregação de atividades e comportamentos executados por humanos
+ou máquinas para alcançar um ou mais resultados. Processo de negócio é um trabalho que entrega valor para os 
+clientes ou apoia/gerencia os outros processos que agregam valor. Esse trabalho pode ser ponta a ponta,
+interfuncional e até mesmo interorganizacional.
+
+ABPMP BPM CBOK versão 3.0
+
+.. image:: images/conceitos3.jpg
+  :width: 700
+  :alt: Alternative text
+
+Existem tipos de processos que podem ser Primário, Suporte ou Gestão.
+
+Primário ou principal: Qualquer processo que se relaciona com o cliente e está diretamente ligado ao negócio
+Suporte: Processos que apoiam os processos principais e outros processos de Suporte
+Gestão: Processos que gerenciam os processos principais ou de suporte.
+
+.. image:: images/conceitos4.jpg
+  :width: 700
+  :alt: Alternative text
 
 .. _conceito2:
 
@@ -39,13 +59,16 @@ To use Lumache, first install it using pip:
 
 .. _conceito3:
 
-Terceiro conceito
+Ferramentas de apoio
 ------------
 
-To use Lumache, first install it using pip:
+Birazi Modeler
+.. image:: images/bizagi.jpg
+  :width: 100
+  :alt: Alternative text
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
+Diagrams.net
+.. image:: images/draw.png
+  :width: 100
+  :alt: Alternative text
 

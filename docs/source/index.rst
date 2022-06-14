@@ -18,7 +18,6 @@ Tópicos
 .. toctree::
 
    conceitos
-   bpmn
    padroes
    tutoriais
    qna
