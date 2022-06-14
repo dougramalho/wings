@@ -12,13 +12,11 @@ how to :ref:`installation` the project.
 
    Este projeto está em desenvolvimento.
 
-Contents
+Tópicos
 --------
 
 .. toctree::
 
-   usage
-   api
    conceitos
    bpmn
    padroes
