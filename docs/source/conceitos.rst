@@ -63,11 +63,13 @@ Ferramentas de apoio
 ------------
 
 Birazi Modeler
+
 .. image:: images/bizagi.jpg
   :width: 100
   :alt: Alternative text
 
 Diagrams.net
+
 .. image:: images/draw.png
   :width: 100
   :alt: Alternative text
