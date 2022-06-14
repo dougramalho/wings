@@ -1,16 +1,28 @@
 Conceitos
 =====
 
-.. _conceito1:
+.. _bpm:
 
-Primeiro conceito
+BPM
 ------------
 
-To use Lumache, first install it using pip:
+.. image:: images/conceitos1.JPG
+  :width: 400
+  :alt: Alternative text
 
-.. code-block:: console
+Disciplina gerencial que integra estratégias e objetivos de uma organização com expectativas 
+e necessidades de clientes, por meio do foco em processos ponta a ponta.
 
-   (.venv) $ pip install lumache
+BPM engloba estratégias, objetivos, cultura, estruturas organizacionais, papéis, políticas, métodos 
+e tecnologias para analisar, desenhar, implementar, gerenciar desempenho, transformar e estabelecer governança 
+de processos.
+
+ABPMP BPM CBOK versão 3.0
+
+
+.. image:: images/conceitos2.jpg
+  :width: 400
+  :alt: Alternative text
 
 
 .. _conceito2:
