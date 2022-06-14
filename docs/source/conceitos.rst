@@ -6,12 +6,12 @@ Conceitos
 BPM
 ------------
 
-.. image:: images/conceitos1.JPG
-  :width: 400
-  :alt: Alternative text
-
 Disciplina gerencial que integra estratégias e objetivos de uma organização com expectativas 
 e necessidades de clientes, por meio do foco em processos ponta a ponta.
+
+.. image:: images/conceitos1.JPG
+  :width: 500
+  :alt: Alternative text
 
 BPM engloba estratégias, objetivos, cultura, estruturas organizacionais, papéis, políticas, métodos 
 e tecnologias para analisar, desenhar, implementar, gerenciar desempenho, transformar e estabelecer governança 
@@ -21,7 +21,7 @@ ABPMP BPM CBOK versão 3.0
 
 
 .. image:: images/conceitos2.jpg
-  :width: 400
+  :width: 700
   :alt: Alternative text
 
 
