@@ -3,7 +3,7 @@ Conceitos
 
 .. _bpm:
 
-BPM
+Modelagem de processos
 ------------
 
 Disciplina gerencial que integra estratégias e objetivos de uma organização com expectativas 
@@ -47,7 +47,7 @@ Gestão: Processos que gerenciam os processos principais ou de suporte.
 
 .. _conceito2:
 
-Segundo conceito
+Notação BPMN
 ------------
 
 To use Lumache, first install it using pip:
@@ -62,7 +62,7 @@ To use Lumache, first install it using pip:
 Ferramentas de apoio
 ------------
 
-Birazi Modeler
+Bizagi Modeler
 
 .. image:: images/bizagi.jpg
   :width: 100
