@@ -3,7 +3,7 @@ Tutoriais
 
 .. toctree::
 
-   configuracao
+   cursointro/configuracao
    operacional
    novoprocesso
    formulario
